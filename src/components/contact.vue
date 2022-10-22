@@ -75,9 +75,14 @@
       </a>
     </div>
   </div>
-  <!-- <div class="row">
+  <div class="row">
     <div class="col-md-8 offset-md-2">
-      <a class="w-100 py-2 mb-2 btn" id="cv" role="button">
+      <a
+        class="w-100 py-2 mb-2 btn"
+        href="../assets/pdf/CV-Yohn-Cheung.pdf"
+        id="cv"
+        role="button"
+      >
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="16"
@@ -94,7 +99,7 @@
         Download CV
       </a>
     </div>
-  </div> -->
+  </div>
 </template>
 
 <style scoped>
