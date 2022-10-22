@@ -79,7 +79,7 @@
     <div class="col-md-8 offset-md-2">
       <a
         class="w-100 py-2 mb-2 btn"
-        href="../assets/pdf/CV-Yohn-Cheung.pdf"
+        href="@/assets/pdf/CV-Yohn-Cheung.pdf"
         id="cv"
         role="button"
       >
