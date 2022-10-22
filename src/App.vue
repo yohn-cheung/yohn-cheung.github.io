@@ -8,7 +8,7 @@ import contact from "@/components/contact.vue";
     <header>
       <!-- Fixed navbar -->
       <nav class="navbar navbar-expand-md navbar-dark fixed-top">
-        <div class="container-fluid">
+        <div class="container">
           <a class="navbar-brand" href="#">张渊明</a>
           <button
             class="navbar-toggler"
@@ -49,9 +49,9 @@ import contact from "@/components/contact.vue";
             </figure>
             <h1 class="text-center">Yohn Cheung</h1>
             <p class="lead text-center">
-              A professional working as a Vue developer at Simac Triangle.
-              Currently rebuilding software applications and adding new features
-              for social work and welfare domains
+              A professional working as a Vue developer. Currently rebuilding
+              software applications and adding new features for social work and
+              welfare domains.
             </p>
 
             <p class="text-center">
