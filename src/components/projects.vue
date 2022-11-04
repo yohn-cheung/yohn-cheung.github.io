@@ -4,6 +4,77 @@
     <div class="col project pb-5">
       <div class="project-content">
         <div>
+          <p class="project-overline">
+            Featured Project - <strong class="text-warning">IN PROGRESS</strong>
+          </p>
+
+          <h4 class="project-title">Coderdojo Helmond</h4>
+
+          <div class="project-description">
+            <p>
+              For Coderdojo Helmond, I redesign the website with Vue and
+              Bootstrap. In the later stage, a new CMS will be used. to maintain
+              the information. The current CMS and website are not sufficient
+              anymore.
+            </p>
+            <p>
+              CoderDojo is an international NGO, specialize in teaching children
+              (7-17 years) ICT. With a small group (4-6 people) we prepare work
+              shops like: Lego Mindstorm and programming with Leaphy.
+            </p>
+          </div>
+
+          <ul class="project-tech-list">
+            <li>Vue</li>
+            <li>Bootstrap</li>
+          </ul>
+
+          <div class="project-links">
+            <a
+              href="https://github.com/yohn-cheung/coderdojo-helmond"
+              target="_blank"
+              aria-label="GitHub"
+              id="github"
+              class="btn btn-sm"
+              role="button"
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="16"
+                height="16"
+                fill="currentColor"
+                class="bi bi-github"
+                viewBox="0 0 16 16"
+              >
+                <path
+                  d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"
+                />
+              </svg>
+              Github
+            </a>
+            <a
+              href="https://dev.coderdojo-helmond.nl/"
+              target="_blank"
+              id="website"
+              class="btn btn-sm"
+            >
+              Website
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="project-image">
+        <a href="#">
+          <img src="@/assets/img/coderdojo.png" class="img" />
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="row g-2">
+    <div class="col project pb-5">
+      <div class="project-content">
+        <div>
           <p class="project-overline">Featured Project</p>
 
           <h4 class="project-title">WeChat Mini Program</h4>
